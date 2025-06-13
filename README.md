@@ -2,4 +2,5 @@
 - I'm a self-taught Iot developer & Backend Developer, i use Python, C/C++
 ---
 - Additional informations
-- B2 english
+- <sup>***B2 english*** </sup>
+- <sup>***Fluent portuguese*** </sup>

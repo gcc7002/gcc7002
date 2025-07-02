@@ -2,6 +2,7 @@
 - I'm a self-taught Iot developer & Backend Developer, i use Python, C/C++
 - **frameworks**
 - Pandas | Flask | Matplot
+----
 - I've always had a dream to work at a international company, this dream lead me to start learning english alone at my 6 years, i used my father's old computer to study, i've always heard about how powerful the information can be, how internet can help me to get it, my first contact with programming was on my 8 years, i've used to make some games in scratch, i've learn programming logic by exploring mechanics in games i've loved such as exploring bugs, at my 16 years, i've decided to really start at programming, alone, i started with python, used godot as a hobbie, got interested in iot and automations by watching big techs working, nowadays, i keep exploring, and learning, is tough to be alone, but everyone start at something, so i'll keep moving foward
 ---
 - Additional informations

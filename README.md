@@ -1,6 +1,6 @@
 # about me
 ### **Hi there, i'm Gabriel**
-##### I'm a backend developer, i love technology and solve problems by building my own apps, my primarly language is python
+##### I'm a backend developer and Iot enthusiast, i use python as my primarly language to build apps, to read data and train machine learning models
 - **frameworks**
 - Pandas | Flask | Matplot | scikit-learn
 ---

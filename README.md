@@ -1,5 +1,5 @@
 - **Hi there, i'm Gabriel**
-- I'm a self-taught Iot developer & Backend Developer, i use Python, C/C++
+- I'm a backend developet, i love technology and how to solve problems by building my own apps, i use python to make my projects focused on data automation such as data science, i'm a Iot enthusiast and have a interest in embedded systems to solve real worlds problems that envolves sustainability and automated process
 - **frameworks**
 - Pandas | Flask | Matplot | scikit-learn
 ---

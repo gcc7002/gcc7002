@@ -1,8 +1,9 @@
-- **Hi there, i'm Gabriel**
-- I'm a backend developet, i love technology and how to solve problems by building my own apps, i use python to make my projects focused on data automation such as data science, i'm a Iot enthusiast and have a interest in embedded systems to solve real worlds problems that envolves sustainability and automated process
+# about me
+### **Hi there, i'm Gabriel**
+##### I'm a backend developer, i love technology and solve problems by building my own apps, my primarly language is python
 - **frameworks**
 - Pandas | Flask | Matplot | scikit-learn
 ---
-- Additional informations
-- <sup>***B2 english*** </sup>
-- <sup>***Fluent portuguese*** </sup>
+## Additional informations
+- ***B2 english*** 
+- ***Fluent portuguese*** 

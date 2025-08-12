@@ -1,7 +1,7 @@
 - **Hi there, i'm Gabriel**
 - I'm a self-taught Iot developer & Backend Developer, i use Python, C/C++
 - **frameworks**
-- Pandas | Flask | Matplot
+- Pandas | Flask | Matplot | scikit-learn
 ---
 - Additional informations
 - <sup>***B2 english*** </sup>

@@ -5,5 +5,5 @@
 - Pandas | Flask | Matplot | scikit-learn
 ---
 ### contact
-- [linkedin](www.linkedin.com/in/gabriel-cristian-camargo)
-
+- [linkedin]( www.linkedin.com/in/gabriel-cristian-camargo )
+- <a href="www.linkedin.com/in/gabriel-cristian-camargo">LinkedIn</a>

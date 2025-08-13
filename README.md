@@ -4,6 +4,4 @@
 - **frameworks**
 - Pandas | Flask | Matplot | scikit-learn
 ---
-## Additional informations
-- ***B2 english*** 
-- ***Fluent portuguese*** 
+

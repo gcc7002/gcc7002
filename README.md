@@ -4,4 +4,6 @@
 - **frameworks**
 - Pandas | Flask | Matplot | scikit-learn
 ---
+### contact
+- [linkedin](www.linkedin.com/in/gabriel-cristian-camargo)
 

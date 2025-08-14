@@ -5,7 +5,7 @@ I'm a backend developer and Iot enthusiast, i use python as my primarly language
 - Python | C/C++ | C#
 ##### **Frameworks**
 - Flask | Django
-#### **Libraries**
+#### **Tools**
 - Pandas | Matplot | scikit-learn | Numpy
 ---
 ### contact
